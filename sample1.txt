@@ -1,2 +1,2 @@
 This is my second file
-Adding new line in sample1.txt
+Adding new line from master
